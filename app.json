@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "rn-assignment",
+    "slug": "rn-assignment",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pin.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/pin.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pin.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.josiahok.rnassignment"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
